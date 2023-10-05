@@ -1,4 +1,4 @@
-# Batch-ZDOOM-launcher
+# Batch ZDOOM launcher
 A simple game launcher for ZDOOM family of ports made in Batch
 
 In practise you can run any DOOM source port with this launcher but it was specificaly designed for ZDOOM
