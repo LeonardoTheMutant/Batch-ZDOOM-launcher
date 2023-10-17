@@ -5,7 +5,7 @@ In practise you can run any DOOM source port with this launcher but it was speci
 
 ## Configuration
 In order to launch your ZDOOM port you have to specify your executable and DOOM gamefolder. By default it's set to `GZDOOM.EXE` and `C:\GAMES\ZDOOM` respectively but you can change those.
-Files with ***.BAT** extension (batch file) is a regular text file which means you can freely open it in any text editor and edit it.
+Files with ***.BAT** extension (batch files) are regular text files which means you can freely open and edit them in any text editor around.
 Right at the beginning there are 4 configuration variables that you can change, it should look like this:
 ```batch
 SET DOOMDIR=C:\GAMES\ZDOOM
